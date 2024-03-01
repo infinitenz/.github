@@ -1,3 +1,5 @@
+![image](https://github.com/infinitenz/.github/assets/9004833/6a38ac27-1aff-452c-99d0-230908d2ce83)
+
 ## Hi there 👋
 
 We're a bunch of engineers, developers and designers that run the show at [Infinity Studio](https://infinitystudio.ai). We make software for civil engineers.
